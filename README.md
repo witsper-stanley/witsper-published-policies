@@ -32,7 +32,7 @@ witsper-published-policies/
 | 文件 | 公佈版本 | 公佈日期 | 對應 source draft | 狀態 |
 |---|---|---|---|---|
 | [電腦設備管理原則](./04_我們怎麼保護自己/電腦設備管理原則_v1_2026-06-01.pdf) | Version 1 | 2026-06-01 | v1.0 | Active(試行至 2026-07-01) |
-| [天然災害停班出勤機制](./04_我們怎麼保護自己/天然災害停班出勤機制_v1_2026-06-01.pdf) | Version 1 | 2026-06-01 | v1.0 | Active(試行至 2026-07-01) |
+| [天然災害停班出勤原則](./04_我們怎麼保護自己/天然災害停班出勤原則_v1_2026-06-01.pdf) | Version 1 | 2026-06-01 | v1.1 | Active(試行至 2026-07-01) |
 | [資訊需求提出指引(試行版)](./04_我們怎麼保護自己/資訊需求提出指引_試行版_v1_2026-06-01.pdf) | Version 1 | 2026-06-01 | v1.3 | Active(試行至 2026-07-01) |
 
 完整 publication metadata(對應 source draft / 公佈摘要 / 公佈管道 等)見 [Draft repo《公佈紀錄》Standard §3](https://github.com/witsper-stanley/witsper-operating-cadence/blob/main/04_%E6%88%91%E5%80%91%E6%80%8E%E9%BA%BC%E4%BF%9D%E8%AD%B7%E8%87%AA%E5%B7%B1/%E5%85%AC%E4%BD%88%E7%B4%80%E9%8C%84_Standard.md)。
